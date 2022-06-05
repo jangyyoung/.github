@@ -12,7 +12,7 @@
 
 - 이지민 Ji Min Lee
  
-- 장윤영 Yoon Young Jang
+- 장윤영 Yun Young Chang
 
 ## YouTube Proposal Link
 
