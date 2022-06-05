@@ -1,10 +1,10 @@
 # .github
 
-###Name of our project
+## Name of our project
 
 - LDC (Learn Dance Challenge)
 
-###Team Members
+## Team Members
 
 - 김성훈 Sung Hoon Kim
 
@@ -14,6 +14,6 @@
  
 - 장윤영 Yoon Young Jang
 
-###YouTube Proposal Link
+## YouTube Proposal Link
 
 - https://youtu.be/WLCU6ZX3a20
